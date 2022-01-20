@@ -13,3 +13,24 @@ body{
 .header-top::before{
 
 }
+
+.btn-buy{
+    background-image: linear-gradient(#A4BC46,#85A019);
+    border: none;
+    text-transform: uppercase;
+    border-radius: 10px;
+    color:#fff
+}
+.hero__title{
+    color:#FABE4C;
+    font-family: 'Bebas Neue';
+    font-size: 80px;
+}
+.hero__title span{
+    color:#3c3c3c;
+}
+
+.jacket__title{
+    font-size: 50px;
+    font-family: 'Bebas Neue';
+}
