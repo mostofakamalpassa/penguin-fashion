@@ -8,6 +8,9 @@ body{
     font-weight: 800;
     margin: 15px 0px;
 }
+.title-size{
+    font-size: 28px;
+}
 .title__color{
     color:#FABE4C;
 }
