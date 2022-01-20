@@ -1,3 +1,10 @@
+body{
+    /* font-family: 'Bebas Neue', cursive; */
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
 .header-top,.hero-area{
     background:#FFFBF0;
     position: relative;
