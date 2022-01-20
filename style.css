@@ -2,6 +2,9 @@ body{
     /* font-family: 'Bebas Neue', cursive; */
     font-family: 'Roboto', sans-serif;
 }
+.roboto{
+    font-family: 'Roboto';
+}
 
 .title{
     font-family: 'Roboto';
