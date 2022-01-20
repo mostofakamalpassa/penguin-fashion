@@ -5,11 +5,13 @@ body{
 
 .title{
     font-family: 'Roboto';
-    font-weight: 800;
+    font-weight: 900;
     margin: 15px 0px;
+    font-size: 28px;
 }
 .title-size{
     font-size: 28px;
+    margin: 0px;
 }
 .title__color{
     color:#FABE4C;
