@@ -3,7 +3,21 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
-
+.title{
+    font-family: 'Roboto';
+    font-weight: 800;
+    margin: 15px 0px;
+}
+.title__color{
+    color:#FABE4C;
+}
+.product-bg-rounded{
+    border-radius: 40px;
+    background-color: #F1F1F1;
+}
+.card-rounded{
+    border-radius: 20px;
+}
 
 .header-top,.hero-area{
     background:#FFFBF0;
