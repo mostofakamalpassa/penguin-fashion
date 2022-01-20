@@ -1,0 +1,8 @@
+.header-top,.hero-area{
+    background:#FFFBF0;
+    position: relative;
+    padding-bottom: 30px;
+}
+.header-top::before{
+
+}
